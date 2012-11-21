@@ -6,7 +6,8 @@
   "author": "Luka Zakrajsek <luka@bancek.net>",
   "homepage": "http://github.com/bancek/envig/",
   "dependencies": {
-    "config" : ">=0.4.15"
+    "js-yaml": ">=1.0.0",
+    "config": ">=0.4.15"
   },
   "devDependencies": {
   },
