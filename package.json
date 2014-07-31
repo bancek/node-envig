@@ -1,6 +1,6 @@
 {
   "name": "envig",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "main": "./lib/envig.js",
   "description": "Environment backend for node-config",
   "author": "Luka Zakrajsek <luka@bancek.net>",
